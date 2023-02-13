@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* carousel */
+.slider-img{
+    height: 850px !important;
+    object-fit:fill;
+}
+
+/* services */
+
+.service_icon{
+    font-size: 80px;
+    color: rgb(159, 83, 197);
+}
+
+/* contact us */
+.custom_bg{
+    background-color: #27003B;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%2327003B' cx='50' cy='0' r='50'/%3E%3Cg fill='%232d0342' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%23330649' cx='50' cy='100' r='50'/%3E%3Cg fill='%23390a50' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%233f0f57' cx='50' cy='200' r='50'/%3E%3Cg fill='%2345145e' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%234c1866' cx='50' cy='300' r='50'/%3E%3Cg fill='%23521d6d' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%23592174' cx='50' cy='400' r='50'/%3E%3Cg fill='%235f267c' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%23662a84' cx='50' cy='500' r='50'/%3E%3Cg fill='%236d2f8c' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%23733393' cx='50' cy='600' r='50'/%3E%3Cg fill='%237a389b' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%23813da3' cx='50' cy='700' r='50'/%3E%3Cg fill='%238842ac' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%238f46b4' cx='50' cy='800' r='50'/%3E%3Cg fill='%23964bbc' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%239e50c4' cx='50' cy='900' r='50'/%3E%3Cg fill='%23a555cd' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%23AC5AD5' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: contain;
+    color: white;
+}
+
+.contact_heading{
+    color: antiquewhite;
+}
+
+.banner_graphics{
+    height:250px;
+}
+
+.footer{
+    color: lavender;
+}
