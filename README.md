@@ -54,3 +54,4 @@ PORT = 3000
 4. Initialise and start the project
 npm install
 npm run start
+  
