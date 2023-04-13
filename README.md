@@ -11,7 +11,7 @@ npm install
 4. To run the project
 npm start
 
-5. To see the project open localhost://3000 or the port mentioned in the terminal in your preferred browser
+5. To see the project open localhost:3000 or the port mentioned in the terminal in your preferred browser
 
 //Deploying a Node Js Application on AWS EC2
 
